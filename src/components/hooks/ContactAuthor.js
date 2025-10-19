@@ -13,9 +13,7 @@ import {
   Facebook,
   Instagram,
   GitHub,
-  Email,
-  Language
-} from '@mui/icons-material';
+  Email} from '@mui/icons-material';
 import { useTheme } from '@mui/material/styles';
 
 const ContactAuthor = () => {
