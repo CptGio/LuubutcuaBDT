@@ -327,11 +327,11 @@ const MusicPlayer = () => {
               width: '100%',
               textAlign: 'center'
             }}>
-              Cho 1 hành trình 4 năm đáng nhớ
+              Một hành trình 4 năm đáng nhớ
             </Typography>
             
             <Typography variant="subtitle1" color="text.secondary">
-              Bấm "Play" để xem lại thanh xuân BAV của tớ
+              Bấm "Play" để xem thanh xuân BAV của tớ có gì
             </Typography>
             
             <Typography variant="subtitle1" sx={{ mb: 1 }}>
