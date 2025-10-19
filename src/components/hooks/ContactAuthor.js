@@ -28,7 +28,7 @@ const ContactAuthor = () => {
     },
     {
       icon: <Instagram />,
-      url: "https://www.instagram.com/cptgio11/",
+      url: "https://www.instagram.com/pbo.frost/",
       label: "Instagram",
       color: "#e4405f"
     },
